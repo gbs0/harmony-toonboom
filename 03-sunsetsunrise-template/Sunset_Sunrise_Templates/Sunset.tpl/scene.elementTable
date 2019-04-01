@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<elements source="Animate (Animate.exe) version 7.9.0 build 5612 2010-03-09 08:45:27" version = "790" build="5612">
- <element id="1" elementName="antelope_1" elementFolder="antelope_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
- <element id="2" elementName="clouds" elementFolder="clouds" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
- <element id="3" elementName="landscape" elementFolder="landscape" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
- <element id="4" elementName="sun" elementFolder="sun" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
- <element id="5" elementName="sky" elementFolder="sky" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
- <element id="6" elementName="antelope" elementFolder="antelope" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2"/>
-</elements>
