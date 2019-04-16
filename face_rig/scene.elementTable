@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (HarmonyPremium.exe) version 15.0.3 build 13585 2018-05-04 05:44:43" version="1503" build="13585">
+ <element id="4" elementName="face" elementFolder="face" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="5" elementName="moustache" elementFolder="moustache" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="6" elementName="nose" elementFolder="nose" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="7" elementName="left_eyebrown" elementFolder="left_eyebrown" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="8" elementName="right_eyebrown" elementFolder="right_eyebrown" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="9" elementName="front_hair" elementFolder="front_hair" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="10" elementName="back_hair" elementFolder="back_hair" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="11" elementName="left_eye" elementFolder="left_eye" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="12" elementName="ear" elementFolder="ear" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="13" elementName="right_eye" elementFolder="right_eye" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="14" elementName="right_ear" elementFolder="right_ear" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="16" elementName="freddy_mouths" elementFolder="freddy_mouths" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>

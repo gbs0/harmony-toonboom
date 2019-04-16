@@ -1,0 +1,5 @@
+ToonBoomAnimationInc PaletteList 1
+palette-library/face_rig LINK "C:/Users/alunop2/Desktop/face_rig/palette-library/face_rig.plt"
+palette-library/face_rig_pencil_texture LINK "C:/Users/alunop2/Desktop/face_rig/palette-library/face_rig_pencil_texture.plt"
+palette-library/Default LINK "C:/Users/alunop2/Desktop/face_rig/palette-library/Default.plt"
+palette-library/IllustratorPalette_rec LINK "C:/Users/alunop2/Desktop/face_rig/palette-library/IllustratorPalette_rec.plt"
