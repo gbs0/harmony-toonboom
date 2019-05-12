@@ -8,3 +8,4 @@ Gradient GradientColour             0x140000003d1dd040 Linear
 {        0.0  40 127  52 255,
         51.2  79 120  46 255,
        100.0  20 103  46 255 }
+Solid    SolidColour                0x1100000017afebff  23 175 235 255
