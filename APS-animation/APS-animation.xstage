@@ -52,7 +52,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="08e0fd76e74bedee" nbframes="200" startFrame="1" stopFrame="41">
+  <scene name="Top" id="08e0fd76e74bedee" nbframes="200" startFrame="1" stopFrame="64">
    <columns>
     <column type="0" name="Drawing" displayOrder="0" width="100" anonymous="true" id="1"/>
     <column type="0" name="ATV-08E3DC07A806F97C" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="2">
@@ -243,6 +243,37 @@
     <column type="0" name="ATV-08E467B1C3759EA7" color="#FFFFFFFF" displayOrder="0" width="100" anonymous="true" id="10">
      <elementSeq exposures="1-80" val="1" id="10"/>
     </column>
+    <column type="3" name="ATV-08E467B1C375BA36" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="8" yLocal="0.96060540162239239" y="0.96060540162239239"/>
+     </points>
+    </column>
+    <column type="3" name="ATV-08E467B1C375BA37" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="8" yLocal="0.96060540162239239" y="0.96060540162239239"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-08E467B1C375BBE1" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="23.80202619462921,-4.5833223306944753,0" lockedInTime="30"/>
+       <pt val="10.621109713085715,-4.5833223306944753,0" lockedInTime="50"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-08E467B1C375BBE2" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="30" yLocal="0" y="0"/>
+       <pt constSeg="false" x="50" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
    </columns>
    <options>
     <defaultDisplay val="Display"/>
@@ -252,7 +283,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-226,245,8" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-226,245,10" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -271,13 +302,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-214,310,7" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-214,310,9" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-257,333,5" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-257,333,7" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -304,7 +335,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="character_bear" pos="0,0,1" publishUnderTab="character_bear">
+     <module type="READ" name="character_bear" pos="-227,-73,2" publishUnderTab="character_bear">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -323,8 +354,8 @@
         <separate val="true"/>
         <inFields val="false"/>
         <xy val="1" defaultValue="1"/>
-        <x val="1" defaultValue="1"/>
-        <y val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1" col="ATV-08E467B1C375BA36"/>
+        <y val="1" defaultValue="1" col="ATV-08E467B1C375BA37"/>
         <z val="1" defaultValue="1"/>
        </scale>
        <rotation>
@@ -415,7 +446,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="ball" pos="-184,-111,3" publishUnderTab="ball">
+     <module type="READ" name="ball" pos="5,-101,4" publishUnderTab="ball">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -526,7 +557,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_right" pos="-426,-172,12" publishUnderTab="tree_right">
+     <module type="READ" name="tree_right" pos="-426,-172,14" publishUnderTab="tree_right">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -637,7 +668,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_left" pos="-423,-218,13" publishUnderTab="tree_left">
+     <module type="READ" name="tree_left" pos="-423,-218,15" publishUnderTab="tree_left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -748,7 +779,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="surfboard" pos="-421,-120,10" publishUnderTab="surfboard">
+     <module type="READ" name="surfboard" pos="-421,-120,12" publishUnderTab="surfboard">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -859,7 +890,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="sea" pos="-407,-65,11" publishUnderTab="sea">
+     <module type="READ" name="sea" pos="-407,-65,13" publishUnderTab="sea">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -970,7 +1001,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach" pos="-409,-25,9" publishUnderTab="beach">
+     <module type="READ" name="beach" pos="-409,-25,11" publishUnderTab="beach">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1081,7 +1112,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="-101,209,6" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="-101,209,8" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1192,7 +1223,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-deform" pos="-233,-165,2" publishUnderTab="ball-P">
+     <module type="PEG" name="ball-deform" pos="-44,-155,5" publishUnderTab="ball-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1255,7 +1286,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-transform" pos="-252,-218,4" publishUnderTab="ball-deform-P">
+     <module type="PEG" name="ball-transform" pos="-63,-208,6" publishUnderTab="ball-deform-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1318,6 +1349,69 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
+     <module type="PEG" name="character_bear-P" pos="-249,-120,1" publishUnderTab="character_bear-P">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <position>
+        <separate val="false"/>
+        <attr3dpath col="ATV-08E467B1C375BBE1"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </position>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <groupAtNetworkBuilding val="false"/>
+       <addCompositeToGroup val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -1332,6 +1426,7 @@
      <link out="Drawing" in="Composite" inport="0"/>
      <link out="ball-deform" in="ball" inport="0"/>
      <link out="ball-transform" in="ball-deform"/>
+     <link out="character_bear-P" in="character_bear" inport="0"/>
     </linkedlist>
    </rootgroup>
    <metas>
