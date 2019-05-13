@@ -16,4 +16,7 @@
  <Element Name="surfboard" ID="7" Folder="surfboard">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
+ <Element Name="ball" ID="9" Folder="ball">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>
