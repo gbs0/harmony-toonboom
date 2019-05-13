@@ -1136,7 +1136,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-deform-P" pos="-251,-218,1" publishUnderTab="ball-deform-P">
+     <module type="PEG" name="ball-transform" pos="-252,-218,1" publishUnderTab="ball-deform-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1211,7 +1211,7 @@
      <link out="beach" in="Composite" inport="1"/>
      <link out="Drawing" in="Composite" inport="0"/>
      <link out="ball-deform" in="ball" inport="0"/>
-     <link out="ball-deform-P" in="ball-deform"/>
+     <link out="ball-transform" in="ball-deform"/>
     </linkedlist>
    </rootgroup>
    <metas>
