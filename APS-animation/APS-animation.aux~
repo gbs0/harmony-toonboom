@@ -13,4 +13,7 @@
  <Element Name="sea" ID="6" Folder="sea">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
+ <Element Name="surfboard" ID="7" Folder="surfboard">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>
