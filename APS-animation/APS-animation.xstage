@@ -229,6 +229,7 @@
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points>
        <pt val="2.1646640163662045,0,0.0097404312873727861" lockedInTime="1"/>
+       <pt val="21.53703918966486,0,0.035025789468569969" lockedInTime="38"/>
        <pt val="22.060616897315402,0,0.035709177527865954" lockedInTime="39"/>
       </points>
      </path3D>
@@ -236,6 +237,7 @@
       <step val="1" start="1" stop="1"/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
+       <pt constSeg="false" x="38" yLocal="0.97368421051339149" y="0.97368421051339149"/>
        <pt constSeg="false" x="39" yLocal="1" y="1"/>
       </points>
      </velocity>
@@ -262,15 +264,15 @@
      <infoVelocity width="100"/>
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points>
-       <pt val="23.80202619462921,-4.5833223306944753,0" lockedInTime="30"/>
-       <pt val="10.621109713085715,-4.5833223306944753,0" lockedInTime="50"/>
+       <pt val="21.576497745235244,-4.756167435752773,-0.44490069818955247" lockedInTime="32"/>
+       <pt val="6.9080141402066086,-4.5833223306944753,2.9799952422259324" lockedInTime="54"/>
       </points>
      </path3D>
      <velocity type="3" name="ATV-08E467B1C375BBE2" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <points version="2">
-       <pt constSeg="false" x="30" yLocal="0" y="0"/>
-       <pt constSeg="false" x="50" yLocal="1" y="1"/>
+       <pt constSeg="false" x="32" yLocal="0" y="0"/>
+       <pt constSeg="false" x="54" yLocal="1" y="1"/>
       </points>
      </velocity>
     </column>
@@ -335,7 +337,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="character_bear" pos="-227,-73,2" publishUnderTab="character_bear">
+     <module type="READ" name="character_bear" pos="-227,-73,3" publishUnderTab="character_bear">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -346,8 +348,8 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <offset>
         <separate val="true"/>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="-0.024100589263732153" defaultValue="0"/>
+        <y val="0.0018902422951946884" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </offset>
        <scale>
@@ -367,13 +369,13 @@
        <angle val="0" defaultValue="0"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.61177395521897937" defaultValue="0"/>
+        <y val="-0.047982270997567245" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </pivot>
        <splineOffset>
-        <x val="0" defaultValue="0"/>
-        <y val="0" defaultValue="0"/>
+        <x val="0.024100589263732153" defaultValue="0"/>
+        <y val="-0.0018902422951946884" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
        </splineOffset>
        <ignoreParentPegScaling val="false"/>
