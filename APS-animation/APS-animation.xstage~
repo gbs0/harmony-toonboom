@@ -179,13 +179,41 @@
     <column type="3" name="ATV-08E467B1C374CB6E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="0.68271487111237927" y="0.68271487111237927"/>
+      <pt constSeg="false" x="1" yLocal="0.5409885541459285" y="0.5409885541459285"/>
      </points>
     </column>
     <column type="3" name="ATV-08E467B1C374CB6F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="0.68271487111237927" y="0.68271487111237927"/>
+      <pt constSeg="false" x="1" yLocal="0.5409885541459285" y="0.5409885541459285"/>
+     </points>
+    </column>
+    <column type="2" name="ATV-08E467B1C374D947" anonymous="true" displayOrder="0">
+     <infoX width="100"/>
+     <infoY width="100"/>
+     <infoZ width="100"/>
+     <infoVelocity width="100"/>
+     <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
+      <points>
+       <pt val="-19.375024788074299,-7.379907331467205,0" lockedInTime="1"/>
+       <pt val="-19.375024788074299,3.7804045146310772,0" lockedInTime="20"/>
+       <pt val="-19.375024788074299,-7.379907331467205,0" lockedInTime="39"/>
+      </points>
+     </path3D>
+     <velocity type="3" name="ATV-08E467B1C374D948" displayOrder="0" width="100" anonymous="true">
+      <step val="1" start="1" stop="1"/>
+      <points version="2">
+       <pt constSeg="false" x="1" yLocal="0" y="0"/>
+       <pt constSeg="false" x="20" yLocal="0.49999999999999978" y="0.49999999999999978"/>
+       <pt constSeg="false" x="39" yLocal="1" y="1"/>
+      </points>
+     </velocity>
+    </column>
+    <column type="3" name="ATV-08E467B1C37519E5" displayOrder="0" width="100" anonymous="true">
+     <step val="1" start="1" stop="1"/>
+     <points version="2">
+      <pt constSeg="false" x="39" yLocal="-497.52013267008022" y="-497.52013267008022"/>
+      <pt constSeg="false" x="1" yLocal="-37.844976035102455" y="-37.844976035102455"/>
      </points>
     </column>
    </columns>
@@ -197,7 +225,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-222,245,7" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-222,245,6" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -216,13 +244,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-214,310,6" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-214,310,5" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-257,333,4" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-257,333,3" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -249,7 +277,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="ball" pos="-184,-111,3" publishUnderTab="ball">
+     <module type="READ" name="ball" pos="-184,-111,2" publishUnderTab="ball">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -360,7 +388,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_right" pos="-426,-172,11" publishUnderTab="tree_right">
+     <module type="READ" name="tree_right" pos="-426,-172,10" publishUnderTab="tree_right">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -471,7 +499,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_left" pos="-423,-218,12" publishUnderTab="tree_left">
+     <module type="READ" name="tree_left" pos="-423,-218,11" publishUnderTab="tree_left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -582,7 +610,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="surfboard" pos="-421,-120,9" publishUnderTab="surfboard">
+     <module type="READ" name="surfboard" pos="-421,-120,8" publishUnderTab="surfboard">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -693,7 +721,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="sea" pos="-407,-65,10" publishUnderTab="sea">
+     <module type="READ" name="sea" pos="-407,-65,9" publishUnderTab="sea">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -804,7 +832,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach" pos="-409,-25,8" publishUnderTab="beach">
+     <module type="READ" name="beach" pos="-409,-25,7" publishUnderTab="beach">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -915,7 +943,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="-101,209,5" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="-101,209,4" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -1037,6 +1065,7 @@
        <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
        <position>
         <separate val="false"/>
+        <attr3dpath col="ATV-08E467B1C374D947"/>
         <x val="0" defaultValue="0"/>
         <y val="0" defaultValue="0"/>
         <z val="0" defaultValue="0"/>
@@ -1053,9 +1082,9 @@
         <separate val="false"/>
         <anglex val="0" defaultValue="0"/>
         <angley val="0" defaultValue="0"/>
-        <anglez val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0" col="ATV-08E467B1C37519E5"/>
        </rotation>
-       <angle val="0" defaultValue="0"/>
+       <angle val="0" defaultValue="0" col="ATV-08E467B1C37519E5"/>
        <skew val="0" defaultValue="0"/>
        <pivot>
         <x val="0" defaultValue="0"/>
