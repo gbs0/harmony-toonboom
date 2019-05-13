@@ -7,4 +7,5 @@
  <element id="6" elementName="sea" elementFolder="sea" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="surfboard" elementFolder="surfboard" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="9" elementName="ball" elementFolder="ball" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="character_bear" elementFolder="character_bear" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
