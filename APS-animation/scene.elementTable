@@ -7,5 +7,11 @@
  <element id="6" elementName="sea" elementFolder="sea" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="surfboard" elementFolder="surfboard" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="9" elementName="ball" elementFolder="ball" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="10" elementName="character_bear" elementFolder="character_bear" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="lyp" elementFolder="lyp" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="20" elementName="lyp" elementFolder="lyp.20" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="22" elementName="lyp" elementFolder="lyp.22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="character_bear" elementFolder="character_bear.24" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="character_bear" elementFolder="character_bear.25" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="character_bear" elementFolder="character_bear.26" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="character_bear" elementFolder="character_bear.27" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
