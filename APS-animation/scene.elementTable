@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <elements source="Harmony Premium (Harmony Premium) version 16.0.1 build 14405 2019-02-08 08:41:06" version="1601" build="14405">
- <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="2" elementName="beach" elementFolder="beach" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="4" elementName="tree_left" elementFolder="tree_left" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="tree_right" elementFolder="tree_right" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -10,8 +9,9 @@
  <element id="14" elementName="lyp" elementFolder="lyp" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="20" elementName="lyp" elementFolder="lyp.20" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="22" elementName="lyp" elementFolder="lyp.22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="24" elementName="character_bear" elementFolder="character_bear.24" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="25" elementName="character_bear" elementFolder="character_bear.25" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="26" elementName="character_bear" elementFolder="character_bear.26" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="27" elementName="character_bear" elementFolder="character_bear.27" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="t" elementFolder="t" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="leg" elementFolder="leg" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="26" elementName="r_arm" elementFolder="r_arm" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="l_arm" elementFolder="l_arm" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="29" elementName="beach" elementFolder="beach.29" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
