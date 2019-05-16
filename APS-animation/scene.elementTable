@@ -14,4 +14,5 @@
  <element id="26" elementName="r_arm" elementFolder="r_arm" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="27" elementName="l_arm" elementFolder="l_arm" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="29" elementName="beach" elementFolder="beach.29" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="32" elementName="character_shark" elementFolder="character_shark.32" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
