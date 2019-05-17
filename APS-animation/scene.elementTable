@@ -15,4 +15,6 @@
  <element id="29" elementName="beach" elementFolder="beach.29" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="32" elementName="character_shark" elementFolder="character_shark.32" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="37" elementName="sunscreen" elementFolder="sunscreen" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="40" elementName="tree_top" elementFolder="tree_top" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="42" elementName="surfboard" elementFolder="surfboard" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
