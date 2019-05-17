@@ -19,4 +19,5 @@
  <element id="42" elementName="surfboard" elementFolder="surfboard" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="43" elementName="shadow_tree_right" elementFolder="shadow_tree_right" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="44" elementName="shadow_tree_left" elementFolder="shadow_tree_left" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="45" elementName="character_surf" elementFolder="character_surf" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

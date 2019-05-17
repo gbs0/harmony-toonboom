@@ -70,4 +70,10 @@
  <Element Name="shadow_tree_right" ID="43" Folder="shadow_tree_right">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
+ <Element Name="shadow_tree_left" ID="44" Folder="shadow_tree_left">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="character_surf" ID="45" Folder="character_surf">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
 </SceneVersion>

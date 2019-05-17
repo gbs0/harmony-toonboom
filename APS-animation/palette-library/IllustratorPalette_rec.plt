@@ -95,3 +95,16 @@ Gradient GradientColour             0x1400000061542d00 Linear
 Gradient GradientColour             0x14000000e9c46900 Linear 
 {        0.0  62  21   0 255,
        100.0 233 196 104 255 }
+Solid    SolidColour                0x110000001a1718ff  26  23  24 255
+Solid    SolidColour                0x1100000025312bff  37  49  43 255
+Solid    SolidColour                0x11000000323133ff  50  49  51 255
+Solid    SolidColour                0x11000000766213ff 118  98  19 255
+Solid    SolidColour                0x11000000adafb2ff 173 175 178 255
+Solid    SolidColour                0x11000000b65e34ff 182  94  52 255
+Solid    SolidColour                0x11000000c93526ff 201  53  38 255
+Solid    SolidColour                0x11000000cd9a74ff 205 154 116 255
+Solid    SolidColour                0x11000000ce8e24ff 206 142  36 255
+Solid    SolidColour                0x11000000ce9772ff 206 151 114 255
+Solid    SolidColour                0x11000000eaaa7aff 234 170 122 255
+Solid    SolidColour                0x11000000edc099ff 237 192 153 255
+Solid    SolidColour                0x11000000f1e3c4ff 241 227 196 255

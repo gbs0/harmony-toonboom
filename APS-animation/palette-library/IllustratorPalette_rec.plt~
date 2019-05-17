@@ -92,3 +92,6 @@ Solid    SolidColour                0x11000000c57433ff 197 116  51 255
 Gradient GradientColour             0x1400000061542d00 Linear 
 {        0.0  63  21   0 255,
        100.0  97  84  44 255 }
+Gradient GradientColour             0x14000000e9c46900 Linear 
+{        0.0  62  21   0 255,
+       100.0 233 196 104 255 }
