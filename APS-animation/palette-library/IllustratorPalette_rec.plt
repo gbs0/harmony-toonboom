@@ -34,3 +34,11 @@ Solid    SolidColour                0x11000000c45254ff 196  82  84 255
 Solid    SolidColour                0x11000000c6c8caff 198 200 202 255
 Solid    SolidColour                0x11000000ce7072ff 206 112 114 255
 Solid    SolidColour                0x11000000e6e7e8ff 230 231 232 255
+Gradient GradientColour             0x14000000ecce5f00 Linear 
+{        0.0 252  86  17 255,
+       100.0 236 206  94 255 }
+Solid    SolidColour                0x110000000e494fff  14  73  79 255
+Solid    SolidColour                0x110000003c2117ff  60  33  23 255
+Solid    SolidColour                0x1100000071a7a0ff 113 167 160 255
+Solid    SolidColour                0x11000000c8ab8fff 200 171 143 255
+Solid    SolidColour                0x11000000c57333ff 197 115  51 255

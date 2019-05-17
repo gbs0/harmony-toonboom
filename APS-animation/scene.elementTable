@@ -4,7 +4,6 @@
  <element id="4" elementName="tree_left" elementFolder="tree_left" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="tree_right" elementFolder="tree_right" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="sea" elementFolder="sea" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="7" elementName="surfboard" elementFolder="surfboard" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="9" elementName="ball" elementFolder="ball" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="14" elementName="lyp" elementFolder="lyp" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="20" elementName="lyp" elementFolder="lyp.20" pixmapFormat="9" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
@@ -15,4 +14,5 @@
  <element id="27" elementName="l_arm" elementFolder="l_arm" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="29" elementName="beach" elementFolder="beach.29" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="32" elementName="character_shark" elementFolder="character_shark.32" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="37" elementName="sunscreen" elementFolder="sunscreen" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
