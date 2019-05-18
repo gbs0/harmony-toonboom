@@ -815,56 +815,56 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="9.6348590963517449" y="9.6348590963517449"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="9.6348590963517449" y="9.6348590963517449"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459380" displayOrder="95" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="-7.8377524962235876" y="-7.8377524962235876"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="-7.8377524962235876" y="-7.8377524962235876"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459381" displayOrder="96" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="88.152389734005425" y="88.152389734005425"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="88.152389734005425" y="88.152389734005425"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459382" displayOrder="97" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0.5" y="0.5"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0.5" y="0.5"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459383" displayOrder="98" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459384" displayOrder="99" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="2.4625861983823052" y="2.4625861983823052"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="2.4625861983823052" y="2.4625861983823052"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459385" displayOrder="100" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459386" displayOrder="101" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459387" displayOrder="102" width="100" anonymous="true">
@@ -872,10 +872,10 @@
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="90" yLocal="-16.667637189590295" y="-16.667637189590295"/>
-      <pt constSeg="false" x="188" yLocal="-14.678845307107842" y="-14.678845307107842"/>
+      <pt constSeg="false" x="188,244" yLocal="-14.678845307107842" y="-14.678845307107842"/>
       <pt constSeg="false" x="100" yLocal="-7.5772640772917894" y="-7.5772640772917894"/>
       <pt constSeg="false" x="1,30" yLocal="-2.0749558319894499" y="-2.0749558319894499"/>
-      <pt constSeg="false" x="160" yLocal="-1.6938503050054372" y="-1.6938503050054372"/>
+      <pt constSeg="false" x="160,216" yLocal="-1.6938503050054372" y="-1.6938503050054372"/>
       <pt constSeg="false" x="122" yLocal="11.343260544478909" y="11.343260544478909"/>
      </points>
     </column>
@@ -883,35 +883,35 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,90,100,122,160,188" yLocal="0.5" y="0.5"/>
+      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244" yLocal="0.5" y="0.5"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459389" displayOrder="104" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,90,100,122,160,188" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938A" displayOrder="105" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="1.6719034265997468" y="1.6719034265997468"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="1.6719034265997468" y="1.6719034265997468"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938B" displayOrder="106" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938C" displayOrder="107" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938D" displayOrder="108" width="100" anonymous="true">
@@ -919,8 +919,8 @@
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="60" yLocal="-17.582413260095151" y="-17.582413260095151"/>
-      <pt constSeg="false" x="188" yLocal="-13.407931820234854" y="-13.407931820234854"/>
-      <pt constSeg="false" x="160" yLocal="-2.2788286677779022" y="-2.2788286677779022"/>
+      <pt constSeg="false" x="188,244" yLocal="-13.407931820234854" y="-13.407931820234854"/>
+      <pt constSeg="false" x="160,216" yLocal="-2.2788286677779022" y="-2.2788286677779022"/>
       <pt constSeg="false" x="1,30" yLocal="2.4166761112443624" y="2.4166761112443624"/>
       <pt constSeg="false" x="100" yLocal="7.7355851435415968" y="7.7355851435415968"/>
       <pt constSeg="false" x="122" yLocal="18.182366216140636" y="18.182366216140636"/>
@@ -930,7 +930,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="160,188" yLocal="0.39198828293435239" y="0.39198828293435239"/>
+      <pt constSeg="false" x="160,188,216,244" yLocal="0.39198828293435239" y="0.39198828293435239"/>
       <pt constSeg="false" x="1,30,60,100,122" yLocal="0.5" y="0.5"/>
      </points>
     </column>
@@ -938,28 +938,28 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,60,100,122,160,188" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,60,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459390" displayOrder="111" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="1.4295474768374292" y="1.4295474768374292"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="1.4295474768374292" y="1.4295474768374292"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459391" displayOrder="112" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459392" displayOrder="113" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459393" displayOrder="114" width="100" anonymous="true">
@@ -967,10 +967,10 @@
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="30" yLocal="-35.983944593099665" y="-35.983944593099665"/>
-      <pt constSeg="false" x="188" yLocal="-26.582829946191822" y="-26.582829946191822"/>
+      <pt constSeg="false" x="188,244" yLocal="-26.582829946191822" y="-26.582829946191822"/>
       <pt constSeg="false" x="60" yLocal="-18.911307337688623" y="-18.911307337688623"/>
       <pt constSeg="false" x="1" yLocal="-1.7971524674057531" y="-1.7971524674057531"/>
-      <pt constSeg="false" x="160" yLocal="2.0771616006398839" y="2.0771616006398839"/>
+      <pt constSeg="false" x="160,216" yLocal="2.0771616006398839" y="2.0771616006398839"/>
       <pt constSeg="false" x="122" yLocal="3.5707927998192619" y="3.5707927998192619"/>
       <pt constSeg="false" x="90" yLocal="4.1404683911296987" y="4.1404683911296987"/>
       <pt constSeg="false" x="100" yLocal="29.429935182015665" y="29.429935182015665"/>
@@ -980,7 +980,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,60,90,100,122,160,188" yLocal="0.28887629595297398" y="0.28887629595297398"/>
+      <pt constSeg="false" x="30,60,90,100,122,160,188,216,244" yLocal="0.28887629595297398" y="0.28887629595297398"/>
       <pt constSeg="false" x="1" yLocal="0.5" y="0.5"/>
      </points>
     </column>
@@ -988,17 +988,17 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,60,90,100,122,160,188" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,60,90,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459396" displayOrder="117" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="188" yLocal="1.5843535774259816" y="1.5843535774259816"/>
+      <pt constSeg="false" x="188,244" yLocal="1.5843535774259816" y="1.5843535774259816"/>
       <pt constSeg="false" x="1,30" yLocal="1.9357369541560936" y="1.9357369541560936"/>
       <pt constSeg="false" x="100" yLocal="2.0063971856083018" y="2.0063971856083018"/>
-      <pt constSeg="false" x="160" yLocal="2.027783254049933" y="2.027783254049933"/>
+      <pt constSeg="false" x="160,216" yLocal="2.027783254049933" y="2.027783254049933"/>
       <pt constSeg="false" x="60" yLocal="2.4959104291218885" y="2.4959104291218885"/>
       <pt constSeg="false" x="122" yLocal="2.6613451294461052" y="2.6613451294461052"/>
       <pt constSeg="false" x="90" yLocal="2.7108809060423646" y="2.7108809060423646"/>
@@ -1636,8 +1636,9 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="r_arm" pos="-120,30,31" publishUnderTab="character_bear">
+     <module type="READ" name="r_arm" pos="-128,30,31" publishUnderTab="character_bear">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1747,8 +1748,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="t" pos="82,22,32" publishUnderTab="character_bear">
+     <module type="READ" name="t" pos="74,22,32" publishUnderTab="character_bear">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -1860,6 +1862,7 @@
      </module>
      <module type="READ" name="ball" pos="-565,-34,27" publishUnderTab="ball">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2195,8 +2198,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="sea" pos="-670,-34,19" publishUnderTab="sea">
+     <module type="READ" name="sea" pos="-678,-34,19" publishUnderTab="sea">
       <options>
+       <color val="#34DEB9FF"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2418,8 +2422,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach" pos="-945,-23,3" publishUnderTab="beach">
+     <module type="READ" name="beach" pos="-953,-23,3" publishUnderTab="beach">
       <options>
+       <color val="#A28F1FFF"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2530,8 +2535,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach_1" pos="-954,-62,16" publishUnderTab="beach">
+     <module type="READ" name="beach_1" pos="-962,-62,16" publishUnderTab="beach">
       <options>
+       <color val="#A5A357FF"/>
        <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2642,8 +2648,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="l_arm" pos="294,22,34" publishUnderTab="character_bear">
+     <module type="READ" name="l_arm" pos="286,22,34" publishUnderTab="character_bear">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2753,8 +2760,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="leg" pos="92,118,33" publishUnderTab="character_bear">
+     <module type="READ" name="leg" pos="84,118,33" publishUnderTab="character_bear">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2866,6 +2874,7 @@
      </module>
      <module type="PEG" name="ball-deform" pos="-566,-195,25" publishUnderTab="ball-P">
       <options>
+       <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
       </options>
@@ -2929,6 +2938,7 @@
      </module>
      <module type="PEG" name="ball-transform" pos="-572,-120,26" publishUnderTab="ball-deform-P">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3279,6 +3289,7 @@
      </module>
      <module type="READ" name="surfboard" pos="0,0,14" publishUnderTab="surfboard">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3390,6 +3401,7 @@
      </module>
      <module type="READ" name="tree_top" pos="-573,48,15" publishUnderTab="tree_top">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3499,8 +3511,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="pegBear" pos="129,-71,28" publishUnderTab="Peg">
+     <module type="PEG" name="pegBear" pos="121,-71,28" publishUnderTab="Peg">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="true"/>
        <version val="1"/>
       </options>
@@ -3562,8 +3575,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-l_arm" pos="294,-28,30">
+     <group name="Deformation-l_arm" pos="286,-28,30">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="true"/>
        <subnodeCollapsed val="false"/>
        <showsPublished val="true"/>
@@ -3605,6 +3619,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#FCFFFFFF"/>
          <collapsed val="true"/>
          <version val="2"/>
         </options>
@@ -3652,6 +3667,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#FCFFFFFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -3689,8 +3705,9 @@
        <link out="Bone_1" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <group name="Deformation-r_arm" pos="-120,-20,29">
+     <group name="Deformation-r_arm" pos="-128,-20,29">
       <options>
+       <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -3732,6 +3749,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#FCFFFFFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -3779,6 +3797,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#FCFFFFFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4318,8 +4337,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="surf-height" pos="-144,-216,7" publishUnderTab="character_surf-P">
+     <module type="PEG" name="surf-height" pos="-152,-216,7" publishUnderTab="character_surf-P">
       <options>
+       <color val="#1E16DAFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4381,8 +4401,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="sea-P" pos="-656,-79,18" publishUnderTab="sea-P">
+     <module type="PEG" name="sea-P" pos="-664,-79,18" publishUnderTab="sea-P">
       <options>
+       <color val="#34DEB9FF"/>
        <locked val="true"/>
        <collapsed val="true"/>
        <version val="1"/>
@@ -4794,8 +4815,9 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-character_surf" pos="-191,-183,10">
+     <group name="Deformation-character_surf" pos="-199,-183,10">
       <options>
+       <color val="#1200DAFF"/>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -4837,6 +4859,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4884,6 +4907,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4931,6 +4955,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4978,6 +5003,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -5025,6 +5051,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -5072,6 +5099,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -5104,6 +5132,7 @@
        </module>
        <module type="DeformationCompositeModule" name="Deformation-Composite" pos="0,-350,0" publishUnderTab="Deformation-Composite">
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -5131,6 +5160,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#1200DAFF"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -5175,8 +5205,9 @@
        <link out="Bone_6" in="Deformation-Composite" inport="1"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="surt-translate" pos="-150,-256,8" publishUnderTab="Peg">
+     <module type="PEG" name="surt-translate" pos="-158,-256,8" publishUnderTab="Peg">
       <options>
+       <color val="#212BDAFF"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>

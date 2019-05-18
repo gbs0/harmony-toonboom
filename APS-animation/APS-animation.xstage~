@@ -1971,6 +1971,7 @@
      </module>
      <module type="READ" name="tree_right" pos="-457,-34,23" publishUnderTab="tree_right">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2080,8 +2081,11 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_left" pos="-441,48,21" publishUnderTab="tree_left">
+     <module type="READ" name="tree_left" pos="-449,48,21" publishUnderTab="tree_left">
       <options>
+       <color val="#24E121FF"/>
+       <locked val="true"/>
+       <outlineMode val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2193,6 +2197,7 @@
      </module>
      <module type="READ" name="sea" pos="-670,-34,19" publishUnderTab="sea">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2415,6 +2420,7 @@
      </module>
      <module type="READ" name="beach" pos="-945,-23,3" publishUnderTab="beach">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2526,6 +2532,7 @@
      </module>
      <module type="READ" name="beach_1" pos="-954,-62,16" publishUnderTab="beach">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4031,8 +4038,9 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <group name="Deform-tree_right" pos="-465,-66,22">
+     <group name="Deform-tree_right" pos="-473,-66,22">
       <options>
+       <color val="#2AE119FF"/>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -4041,6 +4049,7 @@
       <nodeslist>
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4050,6 +4059,7 @@
        </module>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4074,6 +4084,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4110,8 +4121,10 @@
        <link out="Bone" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <group name="Deform-tree_left" pos="-461,1,20">
+     <group name="Deform-tree_left" pos="-469,1,20">
       <options>
+       <color val="#24E121FF"/>
+       <outlineMode val="true"/>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -4120,6 +4133,7 @@
       <nodeslist>
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4129,6 +4143,7 @@
        </module>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4153,6 +4168,9 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <color val="#24E121FF"/>
+         <locked val="true"/>
+         <outlineMode val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4365,7 +4383,8 @@
      </module>
      <module type="PEG" name="sea-P" pos="-656,-79,18" publishUnderTab="sea-P">
       <options>
-       <collapsed val="false"/>
+       <locked val="true"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
