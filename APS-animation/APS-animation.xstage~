@@ -276,7 +276,11 @@
        <pt val="3.2666588247858765,-6.9333166893414564,0" lockedInTime="48"/>
        <pt val="6.1788365320475522,-6.9333166893414564,0" lockedInTime="76"/>
        <pt val="7.6149664595111259,-6.9333166893414564,0" lockedInTime="90"/>
-       <pt val="-3.5316488482062027,-6.9333166893414564,0" lockedInTime="130"/>
+       <pt val="-3.5316488482062027,-6.9333166893414564,0" lockedInTime="133"/>
+       <pt val="9.9023789714535475,-6.9333166893414564,0" lockedInTime="189"/>
+       <pt val="18.018296624713088,-6.6666506628283253,0" lockedInTime="300"/>
+       <pt val="6.1788365320475522,-6.9333166893414564,0" lockedInTime="303"/>
+       <pt val="3.2666588247858765,-6.9333166893414564,0" lockedInTime="331"/>
       </points>
      </path3D>
      <velocity type="3" name="ATV-08E6060ECCCCD4F5" displayOrder="0" width="100" anonymous="true">
@@ -284,13 +288,17 @@
       <noFrames/>
       <points version="2">
        <pt constSeg="false" x="1" yLocal="0" y="0"/>
-       <pt constSeg="false" x="19" yLocal="3.7437702285231448e-08" y="3.7437702285231448e-08"/>
-       <pt constSeg="false" x="30" yLocal="0.36026148081448978" y="0.36026148081448978"/>
-       <pt constSeg="false" x="40" yLocal="0.67772536555448293" y="0.67772536555448293"/>
-       <pt constSeg="false" x="48" yLocal="0.67772538219346312" y="0.67772538219346312"/>
-       <pt constSeg="false" x="76" yLocal="0.73829496108576909" y="0.73829496108576909"/>
-       <pt constSeg="false" x="90" yLocal="0.76816463034537552" y="0.76816463034537552"/>
-       <pt constSeg="false" x="130" yLocal="1" y="1"/>
+       <pt constSeg="false" x="19" yLocal="2.1330528403060836e-08" y="2.1330528403060836e-08"/>
+       <pt constSeg="false" x="30" yLocal="0.20526280407100905" y="0.20526280407100905"/>
+       <pt constSeg="false" x="40" yLocal="0.38614122333937767" y="0.38614122333937767"/>
+       <pt constSeg="false" x="48" yLocal="0.38614123281961327" y="0.38614123281961327"/>
+       <pt constSeg="false" x="76" yLocal="0.42065139354156095" y="0.42065139354156095"/>
+       <pt constSeg="false" x="90" yLocal="0.4376699547683649" y="0.4376699547683649"/>
+       <pt constSeg="false" x="133" yLocal="0.569760618334619" y="0.569760618334619"/>
+       <pt constSeg="false" x="189" yLocal="0.72895878325870722" y="0.72895878325870722"/>
+       <pt constSeg="false" x="300" yLocal="0.82516688209574196" y="0.82516688209574196"/>
+       <pt constSeg="false" x="303" yLocal="0.96548846569469482" y="0.96548846569469482"/>
+       <pt constSeg="false" x="331" yLocal="1" y="1"/>
       </points>
      </velocity>
     </column>
@@ -335,28 +343,28 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,19,40,48,76" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,19,40,48,76,133,189,303,331" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E4873DB7A6AB6D" displayOrder="41" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,19,40,48,76" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1,19,40,48,76,133,189,303,331" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-08E4873DB7A6AB6E" displayOrder="42" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,19,40,48,76" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1,19,40,48,76,133,189,303,331" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-08E4873DB7A6AB6F" displayOrder="43" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,19,40,48,76" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,19,40,48,76,133,189,303,331" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="0" name="ATV-08E4873DB7A74C12" displayOrder="19" width="100" anonymous="true" id="22">
@@ -1623,9 +1631,11 @@
     <column type="3" name="ATV-08E60B6D75E219BB" displayOrder="191" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
+      <pt constSeg="false" x="90" yLocal="-771.86554931620026" y="-771.86554931620026" rhy="188.5096580696395" ry="-583.35589124656076"/>
       <pt constSeg="false" x="70" yLocal="-533.9843141330839" y="-533.9843141330839"/>
       <pt constSeg="false" x="48" yLocal="-376.89293240838435" y="-376.89293240838435"/>
       <pt constSeg="false" x="40" yLocal="-376.89293240838435" y="-376.89293240838435" lhx="-5.8566013906236378" lhy="195.7038823119816" lx="34.143398609376362" ly="-181.18905009640275"/>
+      <pt constSeg="false" x="133" yLocal="-194.08553088840395" y="-194.08553088840395"/>
       <pt constSeg="false" x="1" yLocal="0" y="0" rhx="36.076936897661867" rhy="-119.43757202646945" rx="37.076936897661867" ry="-119.43757202646945"/>
      </points>
     </column>
