@@ -167,20 +167,20 @@
      </points>
     </column>
     <column type="0" name="ATV-08E3DC07A807340A" color="#FFFFFFFF" displayOrder="11" width="100" anonymous="true" id="5">
-     <elementSeq exposures="1-329" val="1" id="5"/>
+     <elementSeq exposures="1-332" val="1" id="5"/>
     </column>
     <column type="3" name="ATV-08E3DC07A8074379" displayOrder="24" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,188" yLocal="9.8179819696704023" y="9.8179819696704023"/>
+      <pt constSeg="false" x="1,105,140,188,236,284,332" yLocal="9.8179819696704023" y="9.8179819696704023"/>
      </points>
     </column>
     <column type="3" name="ATV-08E3DC07A807437A" displayOrder="27" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,188" yLocal="7.7175899524874048" y="7.7175899524874048"/>
+      <pt constSeg="false" x="1,105,140,188,236,284,332" yLocal="7.7175899524874048" y="7.7175899524874048"/>
      </points>
     </column>
     <column type="0" name="ATV-08E3DC07A807505F" color="#FFFFFFFF" displayOrder="15" width="100" anonymous="true" id="6">
@@ -204,14 +204,14 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,188" yLocal="0.64404971288580581" y="0.64404971288580581"/>
+      <pt constSeg="false" x="1,105,140,188,236,284,332" yLocal="0.64404971288580581" y="0.64404971288580581"/>
      </points>
     </column>
     <column type="3" name="ATV-08E467B1C374B047" displayOrder="29" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,188" yLocal="0.64404971288580581" y="0.64404971288580581"/>
+      <pt constSeg="false" x="1,105,140,188,236,284,332" yLocal="0.64404971288580581" y="0.64404971288580581"/>
      </points>
     </column>
     <column type="3" name="ATV-08E467B1C374B386" displayOrder="30" width="100" anonymous="true">
@@ -621,23 +621,23 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,34,70,105,188" yLocal="0.5" y="0.5"/>
+      <pt constSeg="false" x="1,34,70,105,140,188,236,284,332" yLocal="0.5" y="0.5"/>
      </points>
     </column>
     <column type="3" name="ATV-08E560CFA072E22B" displayOrder="73" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="34,105,188" yLocal="-132.68511567039789" y="-132.68511567039789"/>
+      <pt constSeg="false" x="34,105,188,284" yLocal="-132.68511567039789" y="-132.68511567039789"/>
       <pt constSeg="false" x="1" yLocal="-124.80404054574528" y="-124.80404054574528"/>
-      <pt constSeg="false" x="70" yLocal="-124.06368470673029" y="-124.06368470673029"/>
+      <pt constSeg="false" x="70,140,236,332" yLocal="-124.06368470673029" y="-124.06368470673029"/>
      </points>
     </column>
     <column type="3" name="ATV-08E560CFA072E22C" displayOrder="74" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,34,70,105,188" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,34,70,105,140,188,236,284,332" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E560CFA07319C1" displayOrder="75" width="100" anonymous="true">
@@ -815,56 +815,56 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="9.6348590963517449" y="9.6348590963517449"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="9.6348590963517449" y="9.6348590963517449"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459380" displayOrder="95" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="-7.8377524962235876" y="-7.8377524962235876"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="-7.8377524962235876" y="-7.8377524962235876"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459381" displayOrder="96" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="88.152389734005425" y="88.152389734005425"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="88.152389734005425" y="88.152389734005425"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459382" displayOrder="97" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0.5" y="0.5"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0.5" y="0.5"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459383" displayOrder="98" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459384" displayOrder="99" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="2.4625861983823052" y="2.4625861983823052"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="2.4625861983823052" y="2.4625861983823052"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459385" displayOrder="100" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459386" displayOrder="101" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459387" displayOrder="102" width="100" anonymous="true">
@@ -875,7 +875,7 @@
       <pt constSeg="false" x="188,244" yLocal="-14.678845307107842" y="-14.678845307107842"/>
       <pt constSeg="false" x="100" yLocal="-7.5772640772917894" y="-7.5772640772917894"/>
       <pt constSeg="false" x="1,30" yLocal="-2.0749558319894499" y="-2.0749558319894499"/>
-      <pt constSeg="false" x="160,216" yLocal="-1.6938503050054372" y="-1.6938503050054372"/>
+      <pt constSeg="false" x="160,216,272" yLocal="-1.6938503050054372" y="-1.6938503050054372"/>
       <pt constSeg="false" x="122" yLocal="11.343260544478909" y="11.343260544478909"/>
      </points>
     </column>
@@ -883,35 +883,35 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244" yLocal="0.5" y="0.5"/>
+      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244,272" yLocal="0.5" y="0.5"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459389" displayOrder="104" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,90,100,122,160,188,216,244,272" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938A" displayOrder="105" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="1.6719034265997468" y="1.6719034265997468"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="1.6719034265997468" y="1.6719034265997468"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938B" displayOrder="106" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938C" displayOrder="107" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B45938D" displayOrder="108" width="100" anonymous="true">
@@ -920,7 +920,7 @@
      <points version="2">
       <pt constSeg="false" x="60" yLocal="-17.582413260095151" y="-17.582413260095151"/>
       <pt constSeg="false" x="188,244" yLocal="-13.407931820234854" y="-13.407931820234854"/>
-      <pt constSeg="false" x="160,216" yLocal="-2.2788286677779022" y="-2.2788286677779022"/>
+      <pt constSeg="false" x="160,216,272" yLocal="-2.2788286677779022" y="-2.2788286677779022"/>
       <pt constSeg="false" x="1,30" yLocal="2.4166761112443624" y="2.4166761112443624"/>
       <pt constSeg="false" x="100" yLocal="7.7355851435415968" y="7.7355851435415968"/>
       <pt constSeg="false" x="122" yLocal="18.182366216140636" y="18.182366216140636"/>
@@ -930,7 +930,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="160,188,216,244" yLocal="0.39198828293435239" y="0.39198828293435239"/>
+      <pt constSeg="false" x="160,188,216,244,272" yLocal="0.39198828293435239" y="0.39198828293435239"/>
       <pt constSeg="false" x="1,30,60,100,122" yLocal="0.5" y="0.5"/>
      </points>
     </column>
@@ -938,28 +938,28 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,60,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,60,100,122,160,188,216,244,272" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459390" displayOrder="111" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="1.4295474768374292" y="1.4295474768374292"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="1.4295474768374292" y="1.4295474768374292"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459391" displayOrder="112" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459392" displayOrder="113" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,122,188,216,244" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1,30,122,188,216,244,272" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459393" displayOrder="114" width="100" anonymous="true">
@@ -970,7 +970,7 @@
       <pt constSeg="false" x="188,244" yLocal="-26.582829946191822" y="-26.582829946191822"/>
       <pt constSeg="false" x="60" yLocal="-18.911307337688623" y="-18.911307337688623"/>
       <pt constSeg="false" x="1" yLocal="-1.7971524674057531" y="-1.7971524674057531"/>
-      <pt constSeg="false" x="160,216" yLocal="2.0771616006398839" y="2.0771616006398839"/>
+      <pt constSeg="false" x="160,216,272" yLocal="2.0771616006398839" y="2.0771616006398839"/>
       <pt constSeg="false" x="122" yLocal="3.5707927998192619" y="3.5707927998192619"/>
       <pt constSeg="false" x="90" yLocal="4.1404683911296987" y="4.1404683911296987"/>
       <pt constSeg="false" x="100" yLocal="29.429935182015665" y="29.429935182015665"/>
@@ -980,7 +980,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,60,90,100,122,160,188,216,244" yLocal="0.28887629595297398" y="0.28887629595297398"/>
+      <pt constSeg="false" x="30,60,90,100,122,160,188,216,244,272" yLocal="0.28887629595297398" y="0.28887629595297398"/>
       <pt constSeg="false" x="1" yLocal="0.5" y="0.5"/>
      </points>
     </column>
@@ -988,7 +988,7 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1,30,60,90,100,122,160,188,216,244" yLocal="0.45000000000000001" y="0.45000000000000001"/>
+      <pt constSeg="false" x="1,30,60,90,100,122,160,188,216,244,272" yLocal="0.45000000000000001" y="0.45000000000000001"/>
      </points>
     </column>
     <column type="3" name="ATV-08E57E711B459396" displayOrder="117" width="100" anonymous="true">
@@ -998,7 +998,7 @@
       <pt constSeg="false" x="188,244" yLocal="1.5843535774259816" y="1.5843535774259816"/>
       <pt constSeg="false" x="1,30" yLocal="1.9357369541560936" y="1.9357369541560936"/>
       <pt constSeg="false" x="100" yLocal="2.0063971856083018" y="2.0063971856083018"/>
-      <pt constSeg="false" x="160,216" yLocal="2.027783254049933" y="2.027783254049933"/>
+      <pt constSeg="false" x="160,216,272" yLocal="2.027783254049933" y="2.027783254049933"/>
       <pt constSeg="false" x="60" yLocal="2.4959104291218885" y="2.4959104291218885"/>
       <pt constSeg="false" x="122" yLocal="2.6613451294461052" y="2.6613451294461052"/>
       <pt constSeg="false" x="90" yLocal="2.7108809060423646" y="2.7108809060423646"/>
@@ -1033,8 +1033,14 @@
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="60" yLocal="-17.485391374300654" y="-17.485391374300654"/>
+      <pt constSeg="false" x="244" yLocal="-16.486591161919065" y="-16.486591161919065"/>
+      <pt constSeg="false" x="188" yLocal="-12.779486180114361" y="-12.779486180114361"/>
       <pt constSeg="false" x="30,90" yLocal="-3.9308945949180258" y="-3.9308945949180258"/>
+      <pt constSeg="false" x="160" yLocal="-2.5333458203438073" y="-2.5333458203438073"/>
+      <pt constSeg="false" x="300" yLocal="-2.5074821339480762" y="-2.5074821339480762"/>
       <pt constSeg="false" x="100" yLocal="7.4395135145156734" y="7.4395135145156734" rhx="15.643776824034333" rhy="8.320229386317628" rx="115.64377682403433" ry="15.759742900833302"/>
+      <pt constSeg="false" x="272" yLocal="9.6624333855157403" y="9.6624333855157403"/>
+      <pt constSeg="false" x="216" yLocal="15.430083032177565" y="15.430083032177565"/>
       <pt constSeg="false" x="122" yLocal="18.768331441898166" y="18.768331441898166" lhx="-1.4210854715202004e-14" lhy="-7.5860914992896049" lx="121.99999999999999" ly="11.182239942608561"/>
      </points>
     </column>
@@ -1103,11 +1109,15 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
+      <pt constSeg="false" x="398" yLocal="-1.3896813474366341" y="-1.3896813474366341" lhx="-13.016877558375118" lhy="0.2854524678683672" lx="384.98312244162486" ly="-1.1042288795682669"/>
       <pt constSeg="false" x="2" yLocal="-1.3896813474366341" y="-1.3896813474366341" rhx="13.016877558375118" rhy="0.2854524678683672" rx="15.016877558375118" ry="-1.1042288795682669"/>
-      <pt constSeg="false" x="200" yLocal="-0.89826892447914586" y="-0.89826892447914586" rhx="-2.8969957081544919" rhy="0.59426618590207902" lhx="-9.5404827085897068" lhy="0.85686226200498161" rx="197.10300429184551" ry="-0.30400273857706683" lx="190.45951729141029" ly="-0.041406662474164246"/>
+      <pt constSeg="false" x="200" yLocal="-0.89826892447914586" y="-0.89826892447914586" rhx="9.5404827085897068" rhy="0.85686226200498161" rx="209.54048270858971" ry="-0.041406662474164246"/>
+      <pt constSeg="false" x="352" yLocal="-0.43079116814455259" y="-0.43079116814455259" rhx="16.291130560789902" rhy="-0.31180943021476543" lhx="-22.162618982647032" lhy="0.42418870633239036" rx="368.2911305607899" ry="-0.74260059835931802" lx="329.83738101735298" ly="-0.0066024618121622303"/>
       <pt constSeg="false" x="48" yLocal="-0.43079116814455259" y="-0.43079116814455259" rhx="22.162618982647032" rhy="0.42418870633239036" lhx="-16.291130560789902" lhy="-0.31180943021476543" rx="70.162618982647032" ry="-0.0066024618121622303" lx="31.708869439210098" ly="-0.74260059835931802"/>
+      <pt constSeg="false" x="298" yLocal="0" y="0" rhx="23.996891475036378" rhy="-0.055964878878391078" lhx="-34.172007185045231" lhy="0.063392595727063905" rx="321.99689147503636" ry="-0.055964878878391078" lx="263.82799281495477" ly="0.063392595727063905"/>
       <pt constSeg="false" x="102" yLocal="0" y="0" rhx="34.172007185045231" rhy="0.063392595727063905" lhx="-23.996891475036378" lhy="-0.055964878878391078" rx="136.17200718504523" ry="0.063392595727063905" lx="78.003108524963622" ly="-0.055964878878391078"/>
       <pt constSeg="false" x="156" yLocal="0.41489532717763505" y="0.41489532717763505" rhx="16.291130560789902" rhy="-0.31180943021476543" lhx="-31.433005248741438" lhy="0.59561164457337434" rx="172.2911305607899" ry="0.10308589696286963" lx="124.56699475125856" ly="1.0105069717510093"/>
+      <pt constSeg="false" x="244" yLocal="0.41489532717763505" y="0.41489532717763505" rhx="31.433005248741438" rhy="0.59561164457337434" lhx="-16.291130560789902" lhy="-0.31180943021476543" rx="275.43300524874144" ry="1.0105069717510093" lx="227.7088694392101" ly="0.10308589696286963"/>
      </points>
     </column>
     <column type="0" name="ATV-08E57E711B47A4AD" color="#FFFFFFFF" displayOrder="10" width="100" anonymous="true" id="44">
@@ -1974,7 +1984,6 @@
      </module>
      <module type="READ" name="tree_right" pos="-457,-34,23" publishUnderTab="tree_right">
       <options>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2088,7 +2097,6 @@
       <options>
        <color val="#24E121FF"/>
        <locked val="true"/>
-       <outlineMode val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3289,7 +3297,6 @@
      </module>
      <module type="READ" name="surfboard" pos="0,0,14" publishUnderTab="surfboard">
       <options>
-       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4068,7 +4075,6 @@
       <nodeslist>
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4078,7 +4084,6 @@
        </module>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4103,7 +4108,6 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
-         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4143,7 +4147,6 @@
      <group name="Deform-tree_left" pos="-469,1,20">
       <options>
        <color val="#24E121FF"/>
-       <outlineMode val="true"/>
        <collapsed val="true"/>
        <subnodeCollapsed val="true"/>
        <showsPublished val="true"/>
@@ -4189,7 +4192,6 @@
         <options>
          <color val="#24E121FF"/>
          <locked val="true"/>
-         <outlineMode val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4228,6 +4230,7 @@
      </group>
      <module type="READ" name="sunscreen" pos="-811,-34,17" publishUnderTab="sunscreen">
       <options>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4476,6 +4479,7 @@
       <nodeslist>
        <module type="MULTIPORT_OUT" name="Multi-Port-Out" pos="0,0,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4485,6 +4489,7 @@
        </module>
        <module type="MULTIPORT_IN" name="Multi-Port-In" pos="0,-650,0">
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="1"/>
         </options>
@@ -4509,6 +4514,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4556,6 +4562,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4603,6 +4610,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4650,6 +4658,7 @@
          <pt pointOn="-5,-5"/>
         </shapedROI>
         <options>
+         <locked val="true"/>
          <collapsed val="false"/>
          <version val="2"/>
         </options>
@@ -4691,7 +4700,8 @@
      </group>
      <module type="PEG" name="pegSunscreen" pos="-801,-93,1" publishUnderTab="Deformation-sunscreen-P">
       <options>
-       <collapsed val="false"/>
+       <locked val="true"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -4754,7 +4764,8 @@
      </module>
      <module type="PEG" name="shadow_tree_right-P" pos="-818,9,2" publishUnderTab="shadow_tree_right-P">
       <options>
-       <collapsed val="false"/>
+       <locked val="true"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
@@ -5208,7 +5219,7 @@
      <module type="PEG" name="surt-translate" pos="-158,-256,8" publishUnderTab="Peg">
       <options>
        <color val="#212BDAFF"/>
-       <collapsed val="false"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
