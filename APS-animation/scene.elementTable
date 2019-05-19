@@ -22,4 +22,5 @@
  <element id="45" elementName="character_surf" elementFolder="character_surf" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="46" elementName="base" elementFolder="base" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="47" elementName="flute" elementFolder="flute" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="48" elementName="monkey" elementFolder="monkey" pixmapFormat="0" scanType="0" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>

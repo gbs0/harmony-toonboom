@@ -108,3 +108,8 @@ Solid    SolidColour                0x11000000ce9772ff 206 151 114 255
 Solid    SolidColour                0x11000000eaaa7aff 234 170 122 255
 Solid    SolidColour                0x11000000edc099ff 237 192 153 255
 Solid    SolidColour                0x11000000f1e3c4ff 241 227 196 255
+Solid    SolidColour                0x11000000302f2dff  48  47  45 255
+Solid    SolidColour                0x1100000058595bff  88  89  91 255
+Solid    SolidColour                0x11000000a6a8abff 166 168 171 255
+Solid    SolidColour                0x11000000bbbdbfff 187 189 191 255
+Solid    SolidColour                0x11000000d0d2d3ff 208 210 211 255
