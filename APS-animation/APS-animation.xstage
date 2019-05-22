@@ -269,7 +269,7 @@
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points/>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A627" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBCC" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
      </velocity>
@@ -300,7 +300,7 @@
        <pt val="3.2666588247858765,-6.9333166893414564,0" lockedInTime="331"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A629" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBCE" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -331,7 +331,7 @@
        <pt val="6.9080141402066086,-4.5833223306944753,2.9799952422259324" lockedInTime="54"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A62B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBD0" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -458,7 +458,7 @@
        <pt val="6.9371892454813144,-3.7742248870673332,2.3419436310808512" lockedInTime="246"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A62D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBD2" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -847,7 +847,7 @@
        <pt val="0,-0.33808338983307262,0" lockedInTime="386"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A62F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBD4" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1130,7 +1130,7 @@
        <pt val="-6.3395026230112741,0.30596312801158138,0" lockedInTime="394"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A631" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBD6" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1291,7 +1291,7 @@
        <pt val="0.8192906184308093,1.9183881953146416,0" lockedInTime="194"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A633" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBD8" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1344,7 +1344,7 @@
        <pt val="-67.724545474303852,0,0" lockedInTime="300"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A635" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBDA" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1697,7 +1697,7 @@
      <path3D useVeloX="true" useVeloY="true" useVeloZ="true" constantZ="false">
       <points/>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A637" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBDC" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
      </velocity>
@@ -1712,7 +1712,7 @@
        <pt val="0,0,0" lockedInTime="1"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A639" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBDE" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1810,7 +1810,7 @@
        <pt val="0,-0.31482501884580838,0" lockedInTime="114"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A63B" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBE0" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1844,7 +1844,7 @@
        <pt val="-29.147061527649576,0,0" lockedInTime="180"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A63D" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBE2" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1901,7 +1901,7 @@
        <pt val="0,-0.72288521679998974,0" lockedInTime="168"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A63F" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBE4" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -1959,7 +1959,7 @@
        <pt val="0,0,0" lockedInTime="154"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A641" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBE6" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2469,7 +2469,7 @@
        <pt val="-1.0510696494016922,1.4338582133750282,0" lockedInTime="351"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A643" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBE8" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2576,7 +2576,7 @@
       <pt constSeg="false" x="85,199,203,207,210,214,218,224,227,230,236,355,361,364,367,373,377,381,384,388,392" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="0" name="ATV-08E60B6D75EF7466" color="#FFFFFFFF" displayOrder="2" width="100" anonymous="true" id="48">
+    <column type="0" name="ATV-08E60B6D75EF7466" color="#FFFFFFFF" display="false" displayOrder="2" width="100" anonymous="true" id="48">
      <elementSeq exposures="196-393" val="1" id="48"/>
     </column>
     <column type="3" name="ATV-08E60B6D75EF78E9" displayOrder="243" width="100" anonymous="true">
@@ -2653,7 +2653,7 @@
        <pt val="3.4787806316898324,-3.0410683068183935,0" lockedInTime="233"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A645" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBEA" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -2688,7 +2688,7 @@
        <pt val="-0.74416199747965583,-13.450372574285637,0" lockedInTime="297"/>
       </points>
      </path3D>
-     <velocity type="3" name="ATV-08E66E908F03A647" displayOrder="0" width="100" anonymous="true">
+     <velocity type="3" name="ATV-08E7599FD732EBEC" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <noFrames/>
       <points version="2">
@@ -4535,6 +4535,8 @@
      </module>
      <module type="READ" name="monkey" pos="556,-28,5" publishUnderTab="monkey">
       <options>
+       <disabled val="true"/>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -7032,6 +7034,8 @@
      </module>
      <module type="PEG" name="monkey-P" pos="570,-65,2" publishUnderTab="monkey-P">
       <options>
+       <disabled val="true"/>
+       <locked val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -7207,7 +7211,9 @@
      </module>
      <module type="PEG" name="monkey-P-P" pos="564,-104,1" publishUnderTab="monkey-P-P">
       <options>
-       <collapsed val="false"/>
+       <disabled val="true"/>
+       <locked val="true"/>
+       <collapsed val="true"/>
        <version val="1"/>
       </options>
       <attrs>
