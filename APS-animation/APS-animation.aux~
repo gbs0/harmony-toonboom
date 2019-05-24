@@ -86,8 +86,4 @@
  <Element Name="monkey" ID="48" Folder="monkey">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
- <Element Name="SymbolElement" ID="56" Folder="SymbolElement"/>
- <Element Name="sun" ID="67" Folder="sun.67">
-  <Drawing Key="" Name="2" Version="1"/>
- </Element>
 </SceneVersion>
