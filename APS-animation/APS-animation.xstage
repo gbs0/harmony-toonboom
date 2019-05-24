@@ -2845,7 +2845,7 @@
      <collapsed val="false"/>
     </options>
     <nodeslist>
-     <module type="COMPOSITE" name="Composite" pos="-324,245,34" publishUnderTab="Composite">
+     <module type="COMPOSITE" name="Composite" pos="-324,245,37" publishUnderTab="Composite">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2864,13 +2864,13 @@
        <mergeVector val="false"/>
       </attrs>
      </module>
-     <module type="DISPLAY" name="Display" pos="-214,310,53" publishUnderTab="Display">
+     <module type="DISPLAY" name="Display" pos="-214,310,56" publishUnderTab="Display">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
      </module>
-     <module type="WRITE" name="Write" pos="-257,333,52" publishUnderTab="Write">
+     <module type="WRITE" name="Write" pos="-257,333,55" publishUnderTab="Write">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2897,7 +2897,7 @@
        <cleanUpPartitionFolders val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="r_arm" pos="-128,30,48" publishUnderTab="character_bear">
+     <module type="READ" name="r_arm" pos="-128,30,51" publishUnderTab="character_bear">
       <options>
        <color val="#FCFFFFFF"/>
        <locked val="true"/>
@@ -3010,7 +3010,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="t" pos="74,22,49" publishUnderTab="character_bear">
+     <module type="READ" name="t" pos="74,22,52" publishUnderTab="character_bear">
       <options>
        <color val="#FCFFFFFF"/>
        <locked val="true"/>
@@ -3123,7 +3123,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="ball" pos="-565,-93,30" publishUnderTab="ball">
+     <module type="READ" name="ball" pos="-565,-93,33" publishUnderTab="ball">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3234,7 +3234,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_right" pos="-457,-34,47" publishUnderTab="tree_right">
+     <module type="READ" name="tree_right" pos="-457,-34,50" publishUnderTab="tree_right">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -3346,7 +3346,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_left" pos="-449,48,46" publishUnderTab="tree_left">
+     <module type="READ" name="tree_left" pos="-449,48,49" publishUnderTab="tree_left">
       <options>
        <color val="#24E121FF"/>
        <locked val="true"/>
@@ -3459,7 +3459,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="sea" pos="-678,-34,44" publishUnderTab="sea">
+     <module type="READ" name="sea" pos="-678,-34,47" publishUnderTab="sea">
       <options>
        <color val="#34DEB9FF"/>
        <locked val="true"/>
@@ -3572,7 +3572,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="character_shark" pos="-403,-183,16" publishUnderTab="character_shark">
+     <module type="READ" name="character_shark" pos="-403,-183,19" publishUnderTab="character_shark">
       <options>
        <color val="#D900D6FF"/>
        <collapsed val="false"/>
@@ -3684,7 +3684,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach" pos="-953,-23,32" publishUnderTab="beach">
+     <module type="READ" name="beach" pos="-953,-23,35" publishUnderTab="beach">
       <options>
        <color val="#A28F1FFF"/>
        <collapsed val="false"/>
@@ -3796,7 +3796,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach_1" pos="-962,-62,41" publishUnderTab="beach">
+     <module type="READ" name="beach_1" pos="-962,-62,44" publishUnderTab="beach">
       <options>
        <color val="#A5A357FF"/>
        <collapsed val="false"/>
@@ -3908,7 +3908,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="l_arm" pos="286,22,12" publishUnderTab="character_bear">
+     <module type="READ" name="l_arm" pos="286,22,15" publishUnderTab="character_bear">
       <options>
        <color val="#FCFFFFFF"/>
        <locked val="true"/>
@@ -4021,7 +4021,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="leg" pos="84,118,50" publishUnderTab="character_bear">
+     <module type="READ" name="leg" pos="84,118,53" publishUnderTab="character_bear">
       <options>
        <color val="#FCFFFFFF"/>
        <locked val="true"/>
@@ -4134,7 +4134,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-deform" pos="-566,-177,29" publishUnderTab="ball-P">
+     <module type="PEG" name="ball-deform" pos="-566,-177,32" publishUnderTab="ball-P">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -4198,7 +4198,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-transform" pos="-572,-145,24" publishUnderTab="ball-deform-P">
+     <module type="PEG" name="ball-transform" pos="-572,-145,27" publishUnderTab="ball-deform-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4261,7 +4261,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="character_bear-P" pos="170,-209,6" publishUnderTab="character_bear-P">
+     <module type="PEG" name="character_bear-P" pos="170,-209,10" publishUnderTab="character_bear-P">
       <options>
        <outlineMode val="true"/>
        <collapsed val="false"/>
@@ -4325,7 +4325,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="lyp" pos="-307,20,51" publishUnderTab="lyp">
+     <module type="READ" name="lyp" pos="-307,20,54" publishUnderTab="lyp">
       <options>
        <disabled val="true"/>
        <collapsed val="false"/>
@@ -4437,7 +4437,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="character_surf" pos="-170,-154,36" publishUnderTab="character_surf">
+     <module type="READ" name="character_surf" pos="-170,-154,39" publishUnderTab="character_surf">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -4549,7 +4549,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="flute" pos="218,-42,17" publishUnderTab="flute">
+     <module type="READ" name="flute" pos="218,-42,20" publishUnderTab="flute">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -4661,7 +4661,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="monkey" pos="556,-28,13" publishUnderTab="monkey">
+     <module type="READ" name="monkey" pos="556,-28,16" publishUnderTab="monkey">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -4772,7 +4772,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="tree_top" pos="-573,48,40" publishUnderTab="tree_top">
+     <module type="READ" name="tree_top" pos="-573,48,43" publishUnderTab="tree_top">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -4884,7 +4884,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="pegBear" pos="22,-93,18" publishUnderTab="Peg">
+     <module type="PEG" name="pegBear" pos="22,-93,21" publishUnderTab="Peg">
       <options>
        <color val="#FCFFFFFF"/>
        <locked val="true"/>
@@ -4949,7 +4949,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-l_arm" pos="286,-28,11">
+     <group name="Deformation-l_arm" pos="286,-28,14">
       <options>
        <color val="#FCFFFFFF"/>
        <collapsed val="false"/>
@@ -5083,7 +5083,7 @@
        <link out="Bone_1" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <group name="Deformation-r_arm" pos="-128,-20,15">
+     <group name="Deformation-r_arm" pos="-128,-20,18">
       <options>
        <color val="#FCFFFFFF"/>
        <collapsed val="true"/>
@@ -5217,7 +5217,7 @@
        <link out="Bone_1" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="shadow_tree_right" pos="-812,92,33" publishUnderTab="shadow_tree_right">
+     <module type="READ" name="shadow_tree_right" pos="-812,92,36" publishUnderTab="shadow_tree_right">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5328,7 +5328,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="shadow_tree_left" pos="-952,92,38" publishUnderTab="shadow_tree_left">
+     <module type="READ" name="shadow_tree_left" pos="-952,92,41" publishUnderTab="shadow_tree_left">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5439,7 +5439,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <group name="Deform-tree_right" pos="-453,-71,25">
+     <group name="Deform-tree_right" pos="-453,-71,28">
       <options>
        <color val="#2AE119FF"/>
        <collapsed val="true"/>
@@ -5522,7 +5522,7 @@
        <link out="Bone" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <group name="Deform-tree_left" pos="-469,1,45">
+     <group name="Deform-tree_left" pos="-469,1,48">
       <options>
        <color val="#24E121FF"/>
        <collapsed val="true"/>
@@ -5606,7 +5606,7 @@
        <link out="Bone" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="sunscreen" pos="-811,-34,42" publishUnderTab="sunscreen">
+     <module type="READ" name="sunscreen" pos="-811,-34,45" publishUnderTab="sunscreen">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5717,7 +5717,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="surf-height" pos="-152,-216,35" publishUnderTab="character_surf-P">
+     <module type="PEG" name="surf-height" pos="-152,-216,38" publishUnderTab="character_surf-P">
       <options>
        <color val="#1E16DAFF"/>
        <locked val="true"/>
@@ -5782,7 +5782,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="sun" pos="-4,233,1" publishUnderTab="sun">
+     <module type="READ" name="sun" pos="68,366,6" publishUnderTab="sun">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -5893,7 +5893,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="sea-P" pos="-664,-79,43" publishUnderTab="sea-P">
+     <module type="PEG" name="sea-P" pos="-664,-79,46" publishUnderTab="sea-P">
       <options>
        <color val="#34DEB9FF"/>
        <locked val="true"/>
@@ -5958,7 +5958,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-sunscreen" pos="-831,-62,39">
+     <group name="Deformation-sunscreen" pos="-831,-62,42">
       <options>
        <collapsed val="false"/>
        <subnodeCollapsed val="true"/>
@@ -6181,7 +6181,7 @@
        <link out="Bone_3" in="Multi-Port-Out"/>
       </linkedlist>
      </group>
-     <module type="READ" name="base" pos="-214,86,19" publishUnderTab="base">
+     <module type="READ" name="base" pos="-214,86,22" publishUnderTab="base">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -6293,7 +6293,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="pegSunscreen" pos="-801,-93,27" publishUnderTab="Deformation-sunscreen-P">
+     <module type="PEG" name="pegSunscreen" pos="-801,-93,30" publishUnderTab="Deformation-sunscreen-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6356,7 +6356,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="shadow_tree_right-P" pos="-818,9,31" publishUnderTab="shadow_tree_right-P">
+     <module type="PEG" name="shadow_tree_right-P" pos="-818,9,34" publishUnderTab="shadow_tree_right-P">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -6420,7 +6420,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <group name="Deformation-character_surf" pos="-199,-183,37">
+     <group name="Deformation-character_surf" pos="-199,-183,40">
       <options>
        <color val="#1200DAFF"/>
        <collapsed val="false"/>
@@ -6820,7 +6820,7 @@
        <link out="Bone_6" in="Deformation-Composite" inport="1"/>
       </linkedlist>
      </group>
-     <module type="PEG" name="surt-translate" pos="-145,-327,21" publishUnderTab="Peg">
+     <module type="PEG" name="surt-translate" pos="-145,-327,24" publishUnderTab="Peg">
       <options>
        <color val="#212BDAFF"/>
        <locked val="true"/>
@@ -6885,7 +6885,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="ball-rotate" pos="-563,-121,28" publishUnderTab="ball-transform-P">
+     <module type="PEG" name="ball-rotate" pos="-563,-121,31" publishUnderTab="ball-transform-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -6948,7 +6948,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="pegSunscreen-P" pos="-801,-193,26" publishUnderTab="pegSunscreen-P">
+     <module type="PEG" name="pegSunscreen-P" pos="-801,-193,29" publishUnderTab="pegSunscreen-P">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -7012,7 +7012,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="shark-height" pos="-377,-216,22" publishUnderTab="character_shark-P">
+     <module type="PEG" name="shark-height" pos="-377,-216,25" publishUnderTab="character_shark-P">
       <options>
        <color val="#D725B3FF"/>
        <outlineMode val="true"/>
@@ -7077,7 +7077,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="shark-translate" pos="-375,-247,23" publishUnderTab="character_shark-P-P">
+     <module type="PEG" name="shark-translate" pos="-375,-247,26" publishUnderTab="character_shark-P-P">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -7141,7 +7141,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="Peg" pos="-227,-226,20" publishUnderTab="Peg">
+     <module type="PEG" name="Peg" pos="-227,-226,23" publishUnderTab="Peg">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -7205,7 +7205,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="flute-P" pos="251,-103,14" publishUnderTab="flute-P">
+     <module type="PEG" name="flute-P" pos="251,-103,17" publishUnderTab="flute-P">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -7269,7 +7269,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="monkey-P" pos="570,-65,10" publishUnderTab="monkey-P">
+     <module type="PEG" name="monkey-P" pos="570,-65,13" publishUnderTab="monkey-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7332,7 +7332,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="surfboard" pos="174,221,5" publishUnderTab="surfboard">
+     <module type="READ" name="surfboard" pos="174,221,9" publishUnderTab="surfboard">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -7444,7 +7444,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="PEG" name="monkey-P-P" pos="564,-104,9" publishUnderTab="monkey-P-P">
+     <module type="PEG" name="monkey-P-P" pos="564,-104,12" publishUnderTab="monkey-P-P">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -7508,7 +7508,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="READ" name="Drawing" pos="4,-42,7" publishUnderTab="Drawing">
+     <module type="READ" name="Drawing" pos="4,-42,11" publishUnderTab="Drawing">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7619,7 +7619,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="CAMERA" name="Camera" pos="46,-401,8" publishUnderTab="Camera">
+     <module type="CAMERA" name="Camera" pos="27,-397,5" publishUnderTab="Camera">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7641,7 +7641,7 @@
        <farPlane val="1000" defaultValue="1000"/>
       </attrs>
      </module>
-     <module type="PEG" name="Camera-P" pos="21,-441,4" publishUnderTab="Camera-P">
+     <module type="PEG" name="Camera-P" pos="21,-441,3" publishUnderTab="Camera-P">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -7704,7 +7704,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="PEG" name="surfboard-P" pos="188,185,2" publishUnderTab="surfboard-P">
+     <module type="PEG" name="surfboard-P" pos="188,185,7" publishUnderTab="surfboard-P">
       <options>
        <locked val="true"/>
        <collapsed val="false"/>
@@ -7769,7 +7769,7 @@
        <addCompositeToGroup val="true"/>
       </attrs>
      </module>
-     <module type="COMPOSITE" name="Composite_1" pos="200,141,3" publishUnderTab="Composite_1">
+     <module type="COMPOSITE" name="Composite_1" pos="200,141,8" publishUnderTab="Composite_1">
       <options>
        <locked val="true"/>
        <collapsed val="true"/>
@@ -7787,6 +7787,40 @@
        <multiplier val="1" defaultValue="1" col="ATV-08E7C80422D709C2"/>
        <tvgPalette val="compositedPalette"/>
        <mergeVector val="false"/>
+      </attrs>
+     </module>
+     <module type="TbdColorSelector" name="Colour-Selector" pos="69,323,4" publishUnderTab="Colour-Selector">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <selectedcolors/>
+       <applytomatte val="false"/>
+      </attrs>
+     </module>
+     <module type="GLOW" name="Glow" pos="102,284,1" publishUnderTab="Glow">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <truckFactor val="true"/>
+       <blurType val="RADIAL"/>
+       <radius val="0" defaultValue="2"/>
+       <directionalAngle val="0" defaultValue="0"/>
+       <directionalFalloffRate val="1" defaultValue="1"/>
+       <useMatteColor val="false"/>
+       <invertMatte val="false"/>
+       <color>
+        <red val="100"/>
+        <green val="100"/>
+        <blue val="100"/>
+        <alpha val="255"/>
+        <preferredUi val="separate"/>
+       </color>
+       <multiplicative val="false"/>
+       <colourGain val="1" defaultValue="1"/>
       </attrs>
      </module>
     </nodeslist>
@@ -7847,6 +7881,8 @@
      <link out="Camera-P" in="Camera"/>
      <link out="surfboard-P" in="surfboard" inport="0"/>
      <link out="Composite_1" in="surfboard-P"/>
+     <link out="Colour-Selector" in="sun" inport="0"/>
+     <link out="Glow" in="Colour-Selector"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
