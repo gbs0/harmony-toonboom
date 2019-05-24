@@ -2883,7 +2883,7 @@
     <column type="3" name="ATV-08E807EC544B370B" displayOrder="273" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="false" x="1" yLocal="36.940408290739335" y="36.940408290739335"/>
+      <pt constSeg="false" x="1,393" yLocal="62.452377766531207" y="62.452377766531207"/>
      </points>
     </column>
    </columns>
