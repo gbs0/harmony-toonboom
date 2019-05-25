@@ -168,7 +168,6 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="393" yLocal="1.3938866439396256" y="1.3938866439396256"/>
       <pt constSeg="false" x="1" yLocal="1.7526460454659627" y="1.7526460454659627"/>
      </points>
     </column>
@@ -176,7 +175,6 @@
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="393" yLocal="1.4245889585610993" y="1.4245889585610993"/>
       <pt constSeg="false" x="1" yLocal="1.7912505407037465" y="1.7912505407037465"/>
      </points>
     </column>
@@ -3774,7 +3772,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach" pos="-953,-23,35" publishUnderTab="beach">
+     <module type="READ" name="beach" pos="-953,-23,1" publishUnderTab="beach">
       <options>
        <color val="#A28F1FFF"/>
        <collapsed val="false"/>
@@ -3886,7 +3884,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="beach_1" pos="-962,-62,1" publishUnderTab="beach">
+     <module type="READ" name="beach_1" pos="-962,-62,44" publishUnderTab="beach">
       <options>
        <color val="#A5A357FF"/>
        <collapsed val="false"/>
