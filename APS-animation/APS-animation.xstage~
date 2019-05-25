@@ -2979,30 +2979,30 @@
       <points>
        <pt val="-18.199991023183106,-3.466664956796782,-0.43874999999999986" lockedInTime="206"/>
        <pt val="-13.357827145329633,-3.5588037940409811,-1.3054166666666653" lockedInTime="220"/>
-       <pt val="-8.0631670222301448,-3.5588037940409811,-1.3054166666666653" lockedInTime="233"/>
        <pt val="-4.9687840119987063,-3.5588037940409811,-1.3054166666666653" lockedInTime="281"/>
+       <pt val="-4.9687840119987063,-3.5588037940409811,-1.3054166666666653" lockedInTime="300"/>
       </points>
      </path3D>
      <velocity type="3" name="ATV-08E844BDD8C569B1" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <points version="2">
        <pt constSeg="false" x="206" yLocal="0" y="0"/>
-       <pt constSeg="false" x="220" yLocal="0.38095310097655355" y="0.38095310097655355"/>
-       <pt constSeg="false" x="233" yLocal="0.77192278719395713" y="0.77192278719395713"/>
-       <pt constSeg="false" x="281" yLocal="1" y="1"/>
+       <pt constSeg="false" x="220" yLocal="0.38154441658462968" y="0.38154441658462968"/>
+       <pt constSeg="false" x="281" yLocal="0.9999998600957325" y="0.9999998600957325"/>
+       <pt constSeg="false" x="300" yLocal="1" y="1"/>
       </points>
      </velocity>
     </column>
     <column type="3" name="ATV-08E844BDD8C5703F" displayOrder="284" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="false" x="206,233" yLocal="0.72608743065490744" y="0.72608743065490744"/>
+      <pt constSeg="false" x="206,300" yLocal="0.72608743065490744" y="0.72608743065490744"/>
      </points>
     </column>
     <column type="3" name="ATV-08E844BDD8C57040" displayOrder="285" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <points version="2">
-      <pt constSeg="false" x="206,233" yLocal="0.72608743065490744" y="0.72608743065490744"/>
+      <pt constSeg="false" x="206,300" yLocal="0.72608743065490744" y="0.72608743065490744"/>
      </points>
     </column>
     <column type="2" name="ATV-08E844BDD8C61ACB" anonymous="true" displayOrder="286">
@@ -3058,17 +3058,25 @@
       <points>
        <pt val="0,21.179960556279184,-55.558583374098006" lockedInTime="206"/>
        <pt val="-21.521335897819206,1.5389004848305334,-153.15307882919197" lockedInTime="220"/>
-       <pt val="-18.23511275736622,-11.73006758686315,171.27348587029419" lockedInTime="233"/>
        <pt val="5.3032865711416077,-20.941901873801246,98.392408483019636" lockedInTime="240"/>
+       <pt val="0.16058066534811549,21.573110906173216,-66.612334898556369" lockedInTime="281"/>
+       <pt val="145.72209185900036,0.70682753991402891,-30.508639123853285" lockedInTime="286"/>
+       <pt val="20.362173359200657,-31.887701199787955,8.2631295770418411" lockedInTime="292"/>
+       <pt val="144.74158505735113,-24.11453837086372,46.736495003334355" lockedInTime="296"/>
+       <pt val="7.5890304427107464,-12.579082878158726,81.301060778962864" lockedInTime="300"/>
       </points>
      </path3D>
      <velocity type="3" name="ATV-08E844BDD8C7150B" displayOrder="0" width="100" anonymous="true">
       <step val="1" start="1" stop="1"/>
       <points version="2">
        <pt constSeg="false" x="206" yLocal="0" y="0"/>
-       <pt constSeg="false" x="220" yLocal="0.47264220024370429" y="0.47264220024370429"/>
-       <pt constSeg="false" x="233" yLocal="0.65739712817277807" y="0.65739712817277807"/>
-       <pt constSeg="false" x="240" yLocal="1" y="1"/>
+       <pt constSeg="false" x="220" yLocal="0.10668302417501835" y="0.10668302417501835"/>
+       <pt constSeg="false" x="240" yLocal="0.22571624818945571" y="0.22571624818945571"/>
+       <pt constSeg="false" x="281" yLocal="0.40908948796152828" y="0.40908948796152828"/>
+       <pt constSeg="false" x="286" yLocal="0.56480643146584542" y="0.56480643146584542"/>
+       <pt constSeg="false" x="292" yLocal="0.69811098526367843" y="0.69811098526367843"/>
+       <pt constSeg="false" x="296" yLocal="0.85801053601835242" y="0.85801053601835242"/>
+       <pt constSeg="false" x="300" yLocal="1" y="1"/>
       </points>
      </velocity>
     </column>
