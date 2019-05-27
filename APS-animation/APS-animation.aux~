@@ -100,4 +100,48 @@
  <Element Name="ecococonut" ID="70" Folder="ecococonut">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
+ <Element Name="monkey_head" ID="73" Folder="monkey_head">
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+ </Element>
+ <Element Name="monkey_torso" ID="74" Folder="monkey_torso">
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+ </Element>
+ <Element Name="monkey_arms" ID="75" Folder="monkey_arms">
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+ </Element>
+ <Element Name="monkey_tail" ID="77" Folder="monkey_tail">
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+ </Element>
+ <Element Name="monkey_L_leg" ID="79" Folder="monkey_L_leg">
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+ </Element>
+ <Element Name="monkey_R_leg" ID="80" Folder="monkey_R_leg">
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+ </Element>
 </SceneVersion>
